@@ -1,0 +1,18 @@
+Product Group	Product Group Desc
+1	Alcoholic Beverages
+2	Baked Goods
+3	Baking Goods
+4	Beverages
+5	Breakfast Foods
+6	Canned Foods
+7	Canned Products
+10	Dairy
+11	Deli
+12	Eggs
+13	Frozen Foods
+16	Meat
+19	Produce
+20	Seafood
+21	Snack Foods
+22	Snacks
+23	Starchy Foods
