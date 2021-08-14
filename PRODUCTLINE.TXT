@@ -1,3 +1,0 @@
-Product Line	Product Line Desc
-1	Food
-2	Drink
